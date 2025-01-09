@@ -1,0 +1,248 @@
+Size: {20}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2    Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Cache Hits  Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %         %               %           %             %               %
+2.992 100.00  2.992 100.00  11063714104 100.00  0   0.          0   0.      0   0.        0   0.          0   0.         <Total>
+2.952  98.66  2.952  98.66  11063714104 100.00  0   0.          0   0.      0   0.        0   0.          0   0.         matmult_nmk
+0.040   1.34  0.040   1.34            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         getrusage
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         __libc_start_call_main
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         main
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         mflops
+0.      0.    0.040   1.34            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         xtime
+
+Size: {40}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2    Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Cache Hits  Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %         %               %           %             %               %
+2.992 100.00  2.992 100.00  11432313134 100.00  0   0.          0   0.      0   0.        0   0.          0   0.         <Total>
+2.992 100.00  2.992 100.00  11432313134 100.00  0   0.          0   0.      0   0.        0   0.          0   0.         matmult_nmk
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         __libc_start_call_main
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         main
+0.      0.    2.992 100.00            0   0.    0   0.          0   0.      0   0.        0   0.          0   0.         mflops
+
+Size: {60}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %         %             %               %
+2.992 100.00  2.992 100.00  11612912519 100.00  9605752 100.00  9613043 100.00  0   0.        0   0.          0   0.         <Total>
+2.982  99.67  2.982  99.67  11612912519 100.00  9605752 100.00  9613043 100.00  0   0.        0   0.          0   0.         matmult_nmk
+0.010   0.33  0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         getrusage
+0.      0.    2.992 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         __libc_start_call_main
+0.      0.    2.992 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         main
+0.      0.    2.992 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         mflops
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         xtime
+
+Size: {80}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %         %             %               %
+3.002 100.00  3.002 100.00  11615027932 100.00  9606171 100.00  9599028 100.00  0   0.        0   0.          0   0.         <Total>
+2.992  99.67  2.992  99.67  11615027932 100.00  9606171 100.00  9599028 100.00  0   0.        0   0.          0   0.         matmult_nmk
+0.010   0.33  0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         getrusage
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         __libc_start_call_main
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         main
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         mflops
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         xtime
+
+Size: {100}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %         %             %               %
+3.002 100.00  3.002 100.00  11796577944 100.00  4806429 100.00  4802845 100.00  0   0.        0   0.          0   0.         <Total>
+2.992  99.67  2.992  99.67  11796577944 100.00  4806429 100.00  4802845 100.00  0   0.        0   0.          0   0.         matmult_nmk
+0.010   0.33  0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         __pthread_sigmask
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         __collector_reallocVSize
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         __libc_start_call_main
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         gprofng_dlclose
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         main
+0.      0.    3.002 100.00            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         mflops
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         sigprocmask
+0.      0.    0.010   0.33            0   0.          0   0.          0   0.    0   0.        0   0.          0   0.         update_map_segments.constprop.0
+
+Size: {200}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2 Cache  Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Misses          Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %               %               %         %
+3.012 100.00  3.012 100.00  11429598863 100.00  4805879 100.00  4799732 100.00  3002688 100.00  3003989 100.00  0   0.         <Total>
+3.012 100.00  3.012 100.00  11429598863 100.00  4805879 100.00  4799732 100.00  3002688 100.00  3003989 100.00  0   0.         matmult_nmk
+0.      0.    3.012 100.00            0   0.          0   0.          0   0.          0   0.          0   0.    0   0.         __libc_start_call_main
+0.      0.    3.012 100.00            0   0.          0   0.          0   0.          0   0.          0   0.    0   0.         main
+0.      0.    3.012 100.00            0   0.          0   0.          0   0.          0   0.          0   0.    0   0.         mflops
+
+Size: {400}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1 D-cache  Excl. L2 Cache    Excl. L2 Cache  Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                Misses            Hits              Misses          Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                 %                 %               %               %         %
+3.272 100.00  3.272 100.00  10768492057 100.00  494501855 100.00  489750677 100.00  1501598 100.00  1500280 100.00  0   0.         <Total>
+3.262  99.69  3.262  99.69  10750114532  99.83  494501855 100.00  489750677 100.00  1501598 100.00  1500280 100.00  0   0.         matmult_nmk
+0.010   0.31  0.010   0.31     18377525   0.17          0   0.            0   0.          0   0.          0   0.    0   0.         <static>@0x105a94 (<libsatlas.so.3.10>)
+0.      0.    0.010   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dgemm
+0.      0.    0.010   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dmmJIK
+0.      0.    0.010   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dmmJIK2
+0.      0.    3.272 100.00            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         __libc_start_call_main
+0.      0.    3.272 100.00            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         main
+0.      0.    0.010   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         matmult_ref
+0.      0.    3.262  99.69            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         mflops
+
+Size: {600}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1 D-cache  Excl. L2 Cache    Excl. L2 Cache  Excl. L3 Cache  Excl. L3        Name
+CPU           CPU           Hits                Misses            Hits              Misses          Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                 %                 %               %         %                    %
+4.033 100.00  4.033 100.00  13741852395 100.00  633824535 100.00  633974800 100.00  1501011 100.00  0   0.          300343 100.00   <Total>
+3.983  98.76  3.983  98.76  13630651123  99.19  633824535 100.00  633974800 100.00  1501011 100.00  0   0.          300343 100.00   matmult_nmk
+0.040   0.99  0.040   0.99    111201272   0.81          0   0.            0   0.          0   0.    0   0.               0   0.     <static>@0x105a94 (<libsatlas.so.3.10>)
+0.010   0.25  0.010   0.25            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     __pthread_sigmask
+0.      0.    0.040   0.99            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     ATL_dgemm
+0.      0.    0.040   0.99            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     ATL_dmmJIK
+0.      0.    0.040   0.99            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     ATL_dmmJIK2
+0.      0.    0.010   0.25            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     __collector_reallocVSize
+0.      0.    4.033 100.00            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     __libc_start_call_main
+0.      0.    0.010   0.25            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     gprofng_dlopen
+0.      0.    4.033 100.00            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     main
+0.      0.    0.040   0.99            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     matmult_ref
+0.      0.    3.993  99.01            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     mflops
+0.      0.    0.010   0.25            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     sigprocmask
+0.      0.    0.010   0.25            0   0.            0   0.            0   0.          0   0.    0   0.               0   0.     update_map_segments.constprop.0
+
+Size: {800}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1 D-cache  Excl. L2 Cache    Excl. L2 Cache    Excl. L3 Cache    Excl. L3       Name
+CPU           CPU           Hits                Misses            Hits              Misses            Hit w/o Snoop     Cache Misses
+ sec.      %   sec.      %                   %                 %                 %                 %                 %         %
+4.213 100.00  4.213 100.00  11051661924 100.00  480193129 100.00  369824755 100.00  111109799 100.00  111101225 100.00  0   0.         <Total>
+4.103  97.39  4.103  97.39  10814328526  97.85  480193129 100.00  369824755 100.00  111109799 100.00  111101225 100.00  0   0.         matmult_nmk
+0.110   2.61  0.110   2.61    237333398   2.15          0   0.            0   0.            0   0.            0   0.    0   0.         <static>@0x105a94 (<libsatlas.so.3.10>)
+0.      0.    0.110   2.61            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         ATL_dgemm
+0.      0.    0.110   2.61            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         ATL_dmmJIK
+0.      0.    0.110   2.61            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         ATL_dmmJIK2
+0.      0.    4.213 100.00            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         __libc_start_call_main
+0.      0.    4.213 100.00            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         main
+0.      0.    0.110   2.61            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         matmult_ref
+0.      0.    4.103  97.39            0   0.            0   0.            0   0.            0   0.            0   0.    0   0.         mflops
+
+Size: {1000}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1 D-cache  Excl. L2 Cache    Excl. L2 Cache  Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                Misses            Hits              Misses          Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                 %                 %               %               %         %
+6.455 100.00  6.455 100.00  21565824912 100.00  988743142 100.00  984334029 100.00  1500753 100.00  1501410 100.00  0   0.         <Total>
+6.224  96.43  6.224  96.43  21021820507  97.48  983901694  99.51  979595919  99.52  1500753 100.00  1501410 100.00  0   0.         matmult_nmk
+0.170   2.64  0.170   2.64    544004405   2.52          0   0.      4738110   0.48        0   0.          0   0.    0   0.         <static>@0x105a94 (<libsatlas.so.3.10>)
+0.020   0.31  0.020   0.31            0   0.      4841448   0.49          0   0.          0   0.          0   0.    0   0.         <static>@0x132137 (<libsatlas.so.3.10>)
+0.020   0.31  0.020   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         <static>@0x16627d (<libsatlas.so.3.10>)
+0.010   0.16  0.010   0.16            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         <static>@0x14a015 (<libsatlas.so.3.10>)
+0.010   0.16  0.010   0.16            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         munmap
+0.      0.    0.020   0.31            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dIBNBmm
+0.      0.    0.010   0.16            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dMBJBmm
+0.      0.    0.230   3.57            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dgemm
+0.      0.    0.230   3.57            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dmmJIK
+0.      0.    0.220   3.41            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         ATL_dmmJIK2
+0.      0.    6.455 100.00            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         __libc_start_call_main
+0.      0.    0.010   0.16            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         free
+0.      0.    6.455 100.00            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         main
+0.      0.    0.230   3.57            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         matmult_ref
+0.      0.    6.224  96.43            0   0.            0   0.            0   0.          0   0.          0   0.    0   0.         mflops
+
+Size: {1200}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total    Incl. Total    Excl. L1 D-cache    Excl. L1 D-cache   Excl. L2 Cache     Excl. L2 Cache   Excl. L3 Cache   Excl. L3       Name
+CPU            CPU            Hits                Misses             Hits               Misses           Hit w/o Snoop    Cache Misses
+  sec.      %    sec.      %                   %                  %                  %                %                %         %
+11.168 100.00  11.168 100.00  37308086358 100.00  1685244397 100.00  1637209194 100.00  48057995 100.00  48035638 100.00  0   0.         <Total>
+10.798  96.68  10.798  96.68  36343260100  97.41  1680431976  99.71  1632451200  99.71  48057995 100.00  48035638 100.00  0   0.         matmult_nmk
+ 0.330   2.96   0.330   2.96    841017370   2.25     4812421   0.29     4757994   0.29         0   0.           0   0.    0   0.         <static>@0x105a94 (<libsatlas.so.3.10>)
+ 0.010   0.09   0.010   0.09            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         <static>@0x14a015 (<libsatlas.so.3.10>)
+ 0.010   0.09   0.010   0.09            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dcol2blk_a1
+ 0.010   0.09   0.010   0.09            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dputblk_b0
+ 0.010   0.09   0.010   0.09            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_drow2blkT2_a1
+ 0.      0.     0.      0.      123808888   0.33           0   0.             0   0.           0   0.           0   0.    0   0.         <static>@0x16627d (<libsatlas.so.3.10>)
+ 0.      0.     0.010   0.09            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dMBJBmm
+ 0.      0.     0.370   3.32            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dgemm
+ 0.      0.     0.370   3.32            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dmmJIK
+ 0.      0.     0.360   3.23            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         ATL_dmmJIK2
+ 0.      0.    11.168 100.00            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         __libc_start_call_main
+ 0.      0.    11.168 100.00            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         main
+ 0.      0.     0.370   3.32            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         matmult_ref
+ 0.      0.    10.798  96.68            0   0.             0   0.             0   0.           0   0.           0   0.    0   0.         mflops
+
+Size: {1400}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total    Incl. Total    Excl. L1 D-cache    Excl. L1 D-cache   Excl. L2 Cache     Excl. L2 Cache  Excl. L3 Cache  Excl. L3        Name
+CPU            CPU            Hits                Misses             Hits               Misses          Hit w/o Snoop   Cache Misses
+  sec.      %    sec.      %                   %                  %                  %               %               %              %
+16.942 100.00  16.942 100.00  59140290226 100.00  2717507704 100.00  2708741111 100.00  9007855 100.00  9006406 100.00  150196 100.00   <Total>
+16.371  96.63  16.371  96.63  57621513811  97.43  2703099592  99.47  2694342541  99.47  9007855 100.00  9006406 100.00  150196 100.00   matmult_nmk
+ 0.530   3.13   0.530   3.13   1518776415   2.57    14408112   0.53    14398570   0.53        0   0.          0   0.         0   0.     <static>@0x105a94 (<libsatlas.so.3.10>)
+ 0.020   0.12   0.020   0.12            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_dputblk_b0
+ 0.010   0.06   0.010   0.06            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_dcol2blk_a1
+ 0.010   0.06   0.010   0.06            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_drow2blkT2_a1
+ 0.      0.     0.570   3.37            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_dgemm
+ 0.      0.     0.570   3.37            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_dmmJIK
+ 0.      0.     0.560   3.31            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     ATL_dmmJIK2
+ 0.      0.    16.942 100.00            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     __libc_start_call_main
+ 0.      0.    16.942 100.00            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     main
+ 0.      0.     0.570   3.37            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     matmult_ref
+ 0.      0.    16.371  96.63            0   0.             0   0.             0   0.          0   0.          0   0.         0   0.     mflops
+
+Size: {1600}
+
+Functions sorted by metric: Exclusive Total CPU Time
+
+Excl. Total    Incl. Total    Excl. L1 D-cache    Excl. L1 D-cache   Excl. L2 Cache   Excl. L2 Cache     Excl. L3 Cache     Excl. L3 Cache   Name
+CPU            CPU            Hits                Misses             Hits             Misses             Hit w/o Snoop      Misses
+  sec.      %    sec.      %                   %                  %                %                  %                  %               %
+39.067 100.00  39.067 100.00  88415404726 100.00  3621428959 100.00  28863428 100.00  3588605875 100.00  3585623752 100.00  3002684 100.00   <Total>
+38.227  97.85  38.227  97.85  86070445188  97.35  3597419536  99.34   9603458  33.27  3588605875 100.00  3585623752 100.00  3002684 100.00   matmult_nmk
+ 0.721   1.84   0.721   1.84   2125862139   2.40    14445736   0.40  19259970  66.73           0   0.             0   0.          0   0.     <static>@0x105a94 (<libsatlas.so.3.10>)
+ 0.040   0.10   0.040   0.10     61354408   0.07     4778488   0.13         0   0.             0   0.             0   0.          0   0.     <static>@0x132137 (<libsatlas.so.3.10>)
+ 0.030   0.08   0.030   0.08     93510896   0.11           0   0.           0   0.             0   0.             0   0.          0   0.     <static>@0x16627d (<libsatlas.so.3.10>)
+ 0.010   0.03   0.010   0.03            0   0.       4785199   0.13         0   0.             0   0.             0   0.          0   0.     <static>@0x14a015 (<libsatlas.so.3.10>)
+ 0.010   0.03   0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dcol2blk_a1
+ 0.010   0.03   0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_drow2blkT2_a1
+ 0.010   0.03   0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     getrusage
+ 0.010   0.03   0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     init_matrix
+ 0.      0.     0.      0.              0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dIBJBmm
+ 0.      0.     0.040   0.10            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dIBNBmm
+ 0.      0.     0.      0.       64232095   0.07           0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dJIK0x0x56TN56x56x0_a1_bX
+ 0.      0.     0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dMBJBmm
+ 0.      0.     0.821   2.10            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dgemm
+ 0.      0.     0.821   2.10            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dmmJIK
+ 0.      0.     0.811   2.07            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     ATL_dmmJIK2
+ 0.      0.    39.067 100.00            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     __libc_start_call_main
+ 0.      0.     0.010   0.03            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     init_timer
+ 0.      0.    39.067 100.00            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     main
+ 0.      0.     0.821   2.10            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     matmult_ref
+ 0.      0.    38.237  97.87            0   0.             0   0.           0   0.             0   0.             0   0.          0   0.     mflops
+
