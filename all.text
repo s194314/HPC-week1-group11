@@ -1,0 +1,44 @@
+
+
+
+1: KMN
+
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %         %             %               %
+3.002 100.00  3.002 100.00  11856559292 100.00  4805075 100.00  4798605 100.00  0   0.        0   0.          0   0.         <Total>
+
+
+2: KNM
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1         Excl. L2 Cache   Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses   Hits             Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                %                %         %             %               %
+3.002 100.00  3.002 100.00  11070587797 100.00  19206426 100.00  19201652 100.00  0   0.        0   0.          0   0.         <Total>
+
+
+3: MKN
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2    Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Cache Hits  Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %         %               %           %             %               %
+3.002 100.00  3.002 100.00  11668098000 100.00  0   0.          0   0.      0   0.        0   0.          0   0.         <Total>
+
+
+4: MNK
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1         Excl. L2 Cache   Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses   Hits             Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                %                %         %             %               %
+3.002 100.00  3.002 100.00  12040509389 100.00  19197627 100.00  19198631 100.00  0   0.        0   0.          0   0.         <Total>
+
+
+5: NKM
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1         Excl. L2 Cache   Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses   Hits             Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %                %                %         %             %               %
+3.002 100.00  3.002 100.00  11187965163 100.00  24029319 100.00  24010910 100.00  0   0.        0   0.          0   0.         <Total>
+
+
+6: NMK
+Excl. Total   Incl. Total   Excl. L1 D-cache    Excl. L1        Excl. L2 Cache  Excl. L2      Excl. L3 Cache  Excl. L3       Name
+CPU           CPU           Hits                D-cache Misses  Hits            Cache Misses  Hit w/o Snoop   Cache Misses
+ sec.      %   sec.      %                   %               %               %         %             %               %
+3.002 100.00  3.002 100.00  11796577944 100.00  4806429 100.00  4802845 100.00  0   0.        0   0.          0   0.         <Total>
